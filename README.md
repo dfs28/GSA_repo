@@ -1,4 +1,2 @@
 # GSA
-Genome sequence analysis code
-
-This is the repo for the GSA module with my script in it. I have been making some edits so far.
+This repo contains a working .Rnw script for a data generating hidden markov model, inference of HMM parameters using EM and MLE, and inference of states using viterbi algorithm for both continuous and discrete HMMs.
